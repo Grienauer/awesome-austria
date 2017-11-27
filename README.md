@@ -25,6 +25,7 @@ A collection of awesome events (meetups, conferences, camps, etc.) from around A
 - **Vienna WordPress** (meetup: [Vienna-WordPress-Meetup](http://meetup.com/Vienna-WordPress-Meetup), twitter: [WPVienna](https://twitter.com/WPVienna)) - @ CodeFactory
 - **Webclerks** (meetup: [webclerks](http://meetup.com/webclerks), twitter: [wearewebclerks](https://twitter.com/wearewebclerks)) - @ Stockwerk
 - **FreeCodeCamp Vienna** (meetup: [Free-Code-Camp-Vienna](https://meetup.com/Free-Code-Camp-Vienna), github: [FCCVienna](https://github.com/FCCVienna), twitter: [freecodecampvie](https://twitter.com/freecodecampvie)) - @ sektor5 & @ Stockwerk
+- **Drupal Austria** (meetup: [Drupal-Austria-Meetup](https://meetup.com/Drupal-Austria/), twitter: [DrupalAT](https://twitter.com/drupalat)) - @ random location
 
 
 #### Languages / Scripting
